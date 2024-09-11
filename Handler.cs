@@ -83,12 +83,12 @@ namespace dotnet_cyberpunk_challenge_3
             ArasakaKuangPrimusMalware arasakaIceBreaker = new ArasakaKuangPrimusMalware();
             await arasakaIceBreaker.Initialize();
 
-            List<ArasakaMessageProcessList> arasakaProcessList = await arasakaIceBreaker.GetArasakaProcessList();
+            List<ArasakaMessageProcessList> arasakaProcessList = await arasakaIceBreaker.GetProcessList();
             IEnumerable<string> arasakaMemoryMapping = await arasakaIceBreaker.GetProcessMemoryMapping();
 
             MilitechKuangPrimusMalware militechIceBreaker = new MilitechKuangPrimusMalware();
             await militechIceBreaker.Initialize();
-            List<MilitechICEProcessList> militechProcessLists = await militechIceBreaker.GetMilitechProcessList();
+            List<MilitechICEProcessList> militechProcessLists = await militechIceBreaker.GetProcessList();
             IEnumerable<string> militechMemoryMapping = await militechIceBreaker.GetProcessMemoryMapping();
         }
 

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using dotnet_cyberpunk_challenge_3.malware;
-using dotnet_cyberpunk_challenge_3.malware.lib._lib;
+using dotnet_cyberpunk_challenge_3_14.malware;
+using dotnet_cyberpunk_challenge_3_14.malware.lib._lib;
 
-namespace dotnet_cyberpunk_challenge_3
+namespace dotnet_cyberpunk_challenge_3_14
 {
     public static class Handler
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace dotnet_cyberpunk_challenge_3
+namespace dotnet_cyberpunk_challenge_3_14
 {
     internal class Program
     {

@@ -53,6 +53,7 @@ Walkthrough notes on what needs to happen to make the KuangPrimusMalware variant
 ### Biotechnica Kuang Primus Malware
 - Create new class called `BiotechnicaKuangPrimusMalware.cs` in the `malware/` directory. This is preferred but as long as your namespace on this class is `namespace dotnet_cyberpunk_challenge_3_14.malware` then it'll work. You can refer to how the Arasaka and Militech variants are built out if you're unsure.
 - This class will need to inhert from `MultiKuangDaemonFamilyBase<>` and you'll need to pass in the `<blank>MessageRoot` and `<blank>ProcessList` classes you created for Biotechnica.
+- You'll notice there's probably red squigglies telling you it can't find `MultiKuangDaemonFamilyBase`. So add this using statement: `using dotnet_cyberpunk_challenge_3_14.malware.lib;`
 - You'll need to implement all the abstract methods. Your options for doing so: 
 	- Quick way to do this is to use the Visual Studio/VSCode "Quick Fix" option on the red squigglies to `Fix: implement abstract class`. 
 	- Or you can manually type out all the methods. 

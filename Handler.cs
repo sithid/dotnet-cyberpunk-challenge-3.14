@@ -24,28 +24,19 @@ namespace dotnet_cyberpunk_challenge_3_14
                     2. Add the functionality for us to create a variant of the MultiKuangPrimusMalware that's able to
                     target Biotechnica resources by passing in the required generic types. The reason is so that our
                     multi-target malware is not only able to target Arasaka and Militech but also Biotechnica.
+
+                *hint*: You can find more details on *exactly* what to do and sort of a walkthrough in `docs/`. It'll
+                include some documentation on the code and how it's built out as well
             */
-            await challenge1(); // 10mins
-            await challenge2(); // 25mins + 5m talking
-            await challenge3(); // 10ish mins
+            await challenge1();
+            await challenge2();
 
             Console.WriteLine("You're done!");
         }
 
         public static async Task challenge1() {
-            // FIXME: Go back and review this
-
             ArasakaKuangPrimusMalware arasakaIceBreaker = new ArasakaKuangPrimusMalware();
             await arasakaIceBreaker.Initialize();
-
-            MilitechKuangPrimusMalware militechIceBreaker = new MilitechKuangPrimusMalware();
-            await militechIceBreaker.Initialize();
-        }
-
-        public static async Task challenge2() {
-            ArasakaKuangPrimusMalware arasakaIceBreaker = new ArasakaKuangPrimusMalware();
-            await arasakaIceBreaker.Initialize();
-
             List<ArasakaMessageProcessList> arasakaProcessList = await arasakaIceBreaker.GetProcessList();
             IEnumerable<string> arasakaMemoryMapping = await arasakaIceBreaker.GetProcessMemoryMapping();
 
@@ -53,9 +44,18 @@ namespace dotnet_cyberpunk_challenge_3_14
             await militechIceBreaker.Initialize();
             List<MilitechICEProcessList> militechProcessLists = await militechIceBreaker.GetProcessList();
             IEnumerable<string> militechMemoryMapping = await militechIceBreaker.GetProcessMemoryMapping();
+
+            // TODO: Add BiotechnicaKuangPrimusMalware object and use it to get the process list and process memory mapping
+            // essentially just like we're doing above
+            // INSERT YOUR CODE
+            BiotechnicaKuangPrimusMalware iceBreaker = new BiotechnicaKuangPrimusMalware();
+            await iceBreaker.Initialize();
+            List<BiotechnicaProcessList> processLists = await iceBreaker.GetProcessList();
+            IEnumerable<string> memoryMapping = await iceBreaker.GetProcessMemoryMapping();
+
         }
 
-        public static async Task challenge3() {
+        public static async Task challenge2() {
             // FIXME: Mentor note - Need to make the generic Arasaka/Militech Primus Malware
             MultiKuangPrimusMalware<ArasakaMessageRoot, ArasakaMessageProcessList> arasakaIceBreaker = new MultiKuangPrimusMalware<ArasakaMessageRoot, ArasakaMessageProcessList>();
             await arasakaIceBreaker.Initialize();
@@ -66,6 +66,14 @@ namespace dotnet_cyberpunk_challenge_3_14
             await militechIceBreaker.Initialize();
             List<MilitechICEProcessList> militechICEProcessLists = await militechIceBreaker.GetProcessList();
             IEnumerable<string> militechMemoryMapping = await militechIceBreaker.GetProcessMemoryMapping();
+
+            // TODO: Add the Biotechnica test with `MultiKuangPrimusMalware` object and use it to get 
+            // the process list and process memory mapping essentially just like we're doing above
+            // INSERT YOUR CODE
+            MultiKuangPrimusMalware<BiotechnicaMessageRoot, BiotechnicaProcessList> iceBreaker = new MultiKuangPrimusMalware<BiotechnicaMessageRoot, BiotechnicaProcessList>();
+            await iceBreaker.Initialize();
+            List<BiotechnicaProcessList> processLists = await iceBreaker.GetProcessList();
+            IEnumerable<string> memoryMapping = await iceBreaker.GetProcessMemoryMapping();
         }
     }
 }

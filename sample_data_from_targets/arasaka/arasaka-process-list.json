@@ -1,0 +1,602 @@
+// curl -H "X-API-Key: ASK_FOR_THIS_IF_YOU_NEED_IT" https://my.api.mockaroo.com/arasaka/process-list > arasaka-process-list.json
+{
+    "messageId": 784,
+    "arasakaServer": "us-west-1",
+    "netwatchMonitored": true,
+    "content": {
+        "accessKey": "a1e2edb9d62f9e49b7ea863511c0f9b72d8fb9e0",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 54,
+        "processList": [
+            {
+                "processId": 65274,
+                "memory": "12160MB",
+                "family": "Biodex",
+                "openFiles": "At.pdf",
+                "memoryStartingAddress": "0xA02yXsXy18WX"
+            },
+            {
+                "processId": 193369,
+                "memory": "15804MB",
+                "family": "Holdlamis",
+                "openFiles": "NislDuis.doc",
+                "memoryStartingAddress": "0xA0lhX9heb224"
+            },
+            {
+                "processId": 131254,
+                "memory": "12427MB",
+                "family": "Sonair",
+                "openFiles": "SapienQuis.ppt",
+                "memoryStartingAddress": "0xA0Ij1CYizSkr"
+            },
+            {
+                "processId": 119361,
+                "memory": "20887MB",
+                "family": "It",
+                "openFiles": "SapienIn.ppt",
+                "memoryStartingAddress": "0xA04xrqLGBMK7"
+            },
+            {
+                "processId": 114710,
+                "memory": "12792MB",
+                "family": "Holdlamis",
+                "openFiles": "VitaeNisi.mp3",
+                "memoryStartingAddress": "0xA0blWgEPiZCB"
+            },
+            {
+                "processId": 135581,
+                "memory": "9556MB",
+                "family": "Cardify",
+                "openFiles": "PorttitorLacusAt.xls",
+                "memoryStartingAddress": "0xA0Xxmm7rTVRi"
+            },
+            {
+                "processId": 84564,
+                "memory": "20452MB",
+                "family": "Gembucket",
+                "openFiles": "NullamMolestie.pdf",
+                "memoryStartingAddress": "0xA0S9UhzG9IY5"
+            },
+            {
+                "processId": 13198,
+                "memory": "10079MB",
+                "family": "Y-Solowarm",
+                "openFiles": "Elementum.xls",
+                "memoryStartingAddress": "0xA0Cle5HHTnu2"
+            },
+            {
+                "processId": 245409,
+                "memory": "26539MB",
+                "family": "Rank",
+                "openFiles": "PedeAc.avi",
+                "memoryStartingAddress": "0xA0jLruFk1bia"
+            },
+            {
+                "processId": 18361,
+                "memory": "25922MB",
+                "family": "Tin",
+                "openFiles": "MorbiUtOdio.ppt",
+                "memoryStartingAddress": "0xA0Zk8r5h5Qlq"
+            },
+            {
+                "processId": 160072,
+                "memory": "21544MB",
+                "family": "It",
+                "openFiles": "Est.mp3",
+                "memoryStartingAddress": "0xA0ibnLc12iEg"
+            },
+            {
+                "processId": 30792,
+                "memory": "29933MB",
+                "family": "Stronghold",
+                "openFiles": "BlanditNonInterdum.mpeg",
+                "memoryStartingAddress": "0xA0NorBY1BHR8"
+            },
+            {
+                "processId": 243318,
+                "memory": "21702MB",
+                "family": "Home Ing",
+                "openFiles": "EtUltrices.tiff",
+                "memoryStartingAddress": "0xA0P3VjBUIPl4"
+            },
+            {
+                "processId": 10868,
+                "memory": "22732MB",
+                "family": "Aerified",
+                "openFiles": "MaurisUllamcorper.avi",
+                "memoryStartingAddress": "0xA0OKtcWy9zQp"
+            },
+            {
+                "processId": 174884,
+                "memory": "6432MB",
+                "family": "Alpha",
+                "openFiles": "NonummyMaecenas.mp3",
+                "memoryStartingAddress": "0xA0BwxD0iJiUs"
+            },
+            {
+                "processId": 25649,
+                "memory": "4880MB",
+                "family": "Voyatouch",
+                "openFiles": "Eleifend.ppt",
+                "memoryStartingAddress": "0xA0KrYkRaUysE"
+            },
+            {
+                "processId": 99711,
+                "memory": "21919MB",
+                "family": "Sonair",
+                "openFiles": "Tincidunt.doc",
+                "memoryStartingAddress": "0xA0zLNpccqjqI"
+            },
+            {
+                "processId": 33944,
+                "memory": "13419MB",
+                "family": "Stim",
+                "openFiles": "NullamPorttitor.avi",
+                "memoryStartingAddress": "0xA0Mec4dEg0e0"
+            },
+            {
+                "processId": 173812,
+                "memory": "3929MB",
+                "family": "Flexidy",
+                "openFiles": "LigulaPellentesque.ppt",
+                "memoryStartingAddress": "0xA0R0rAn6k2iD"
+            },
+            {
+                "processId": 166737,
+                "memory": "15129MB",
+                "family": "Andalax",
+                "openFiles": "EstPhasellusSit.mpeg",
+                "memoryStartingAddress": "0xA0dstzG81JQz"
+            },
+            {
+                "processId": 220648,
+                "memory": "14551MB",
+                "family": "Zontrax",
+                "openFiles": "NullamMolestieNibh.avi",
+                "memoryStartingAddress": "0xA0G6vuZIVqsJ"
+            },
+            {
+                "processId": 76879,
+                "memory": "4409MB",
+                "family": "Y-Solowarm",
+                "openFiles": "InEstRisus.jpeg",
+                "memoryStartingAddress": "0xA06ZIZHIMCnX"
+            },
+            {
+                "processId": 184491,
+                "memory": "10816MB",
+                "family": "Namfix",
+                "openFiles": "UltricesEnim.xls",
+                "memoryStartingAddress": "0xA0cA6HnLYmKj"
+            },
+            {
+                "processId": 205319,
+                "memory": "6889MB",
+                "family": "Pannier",
+                "openFiles": "ImperdietNullam.tiff",
+                "memoryStartingAddress": "0xA0b7HyghkC98"
+            },
+            {
+                "processId": 255681,
+                "memory": "6410MB",
+                "family": "Subin",
+                "openFiles": "MattisOdio.tiff",
+                "memoryStartingAddress": "0xA0TcAuUj4CNt"
+            },
+            {
+                "processId": 105752,
+                "memory": "8603MB",
+                "family": "Opela",
+                "openFiles": "CuraeMauris.ppt",
+                "memoryStartingAddress": "0xA0TWZwZM18cQ"
+            },
+            {
+                "processId": 258155,
+                "memory": "4052MB",
+                "family": "Tres-Zap",
+                "openFiles": "VenenatisLaciniaAenean.avi",
+                "memoryStartingAddress": "0xA0jp1cihbm74"
+            },
+            {
+                "processId": 74534,
+                "memory": "1702MB",
+                "family": "Stim",
+                "openFiles": "DictumstMaecenas.pdf",
+                "memoryStartingAddress": "0xA0OIqKUrDDop"
+            },
+            {
+                "processId": 69657,
+                "memory": "14338MB",
+                "family": "Aerified",
+                "openFiles": "EnimBlanditMi.ppt",
+                "memoryStartingAddress": "0xA0715dyY2Izj"
+            },
+            {
+                "processId": 143608,
+                "memory": "17114MB",
+                "family": "Bytecard",
+                "openFiles": "InLectusPellentesque.mp3",
+                "memoryStartingAddress": "0xA0LBhI3qVZN3"
+            },
+            {
+                "processId": 206820,
+                "memory": "8298MB",
+                "family": "Keylex",
+                "openFiles": "DolorSitAmet.mp3",
+                "memoryStartingAddress": "0xA0eE8a9Rikmu"
+            },
+            {
+                "processId": 260942,
+                "memory": "269MB",
+                "family": "Stim",
+                "openFiles": "DictumstMorbi.mp3",
+                "memoryStartingAddress": "0xA0YwWQfGib8j"
+            },
+            {
+                "processId": 45659,
+                "memory": "16625MB",
+                "family": "Regrant",
+                "openFiles": "TurpisElementum.ppt",
+                "memoryStartingAddress": "0xA0dYWvMJB5zG"
+            },
+            {
+                "processId": 54525,
+                "memory": "9820MB",
+                "family": "Otcom",
+                "openFiles": "Ultrices.avi",
+                "memoryStartingAddress": "0xA0IygLE6UYTD"
+            },
+            {
+                "processId": 136024,
+                "memory": "1593MB",
+                "family": "Quo Lux",
+                "openFiles": "UltricesMattis.gif",
+                "memoryStartingAddress": "0xA0zZI0dpmMYu"
+            },
+            {
+                "processId": 40166,
+                "memory": "2973MB",
+                "family": "Home Ing",
+                "openFiles": "Sapien.avi",
+                "memoryStartingAddress": "0xA0YZOl6Y9ahy"
+            },
+            {
+                "processId": 7201,
+                "memory": "580MB",
+                "family": "Sonsing",
+                "openFiles": "PulvinarSed.jpeg",
+                "memoryStartingAddress": "0xA0mLT2WCKOAf"
+            },
+            {
+                "processId": 209663,
+                "memory": "29296MB",
+                "family": "Quo Lux",
+                "openFiles": "EuInterdum.tiff",
+                "memoryStartingAddress": "0xA07MB9ZrIjhy"
+            },
+            {
+                "processId": 284448,
+                "memory": "2455MB",
+                "family": "Bigtax",
+                "openFiles": "ElitProin.jpeg",
+                "memoryStartingAddress": "0xA0vsbfGVaoVU"
+            },
+            {
+                "processId": 249790,
+                "memory": "7408MB",
+                "family": "Bytecard",
+                "openFiles": "MassaTempor.xls",
+                "memoryStartingAddress": "0xA0D1UtVQ6tHr"
+            },
+            {
+                "processId": 20379,
+                "memory": "29907MB",
+                "family": "Bytecard",
+                "openFiles": "NuncNislDuis.xls",
+                "memoryStartingAddress": "0xA09ZfOBkyZot"
+            },
+            {
+                "processId": 167393,
+                "memory": "7911MB",
+                "family": "Lotstring",
+                "openFiles": "Ridiculus.txt",
+                "memoryStartingAddress": "0xA0qHkwwFyQdV"
+            },
+            {
+                "processId": 87029,
+                "memory": "12045MB",
+                "family": "Bytecard",
+                "openFiles": "MontesNasceturRidiculus.pdf",
+                "memoryStartingAddress": "0xA0uG1lfjKW2U"
+            },
+            {
+                "processId": 130811,
+                "memory": "15210MB",
+                "family": "Kanlam",
+                "openFiles": "ConsequatInConsequat.doc",
+                "memoryStartingAddress": "0xA09GszLjeII1"
+            },
+            {
+                "processId": 288647,
+                "memory": "20748MB",
+                "family": "Bytecard",
+                "openFiles": "Turpis.txt",
+                "memoryStartingAddress": "0xA0G3j0h5kwTP"
+            },
+            {
+                "processId": 276883,
+                "memory": "6621MB",
+                "family": "Temp",
+                "openFiles": "UltricesAliquetMaecenas.mp3",
+                "memoryStartingAddress": "0xA0IRQNjAKfvM"
+            },
+            {
+                "processId": 239542,
+                "memory": "8451MB",
+                "family": "Tres-Zap",
+                "openFiles": "VulputateLuctusCum.gif",
+                "memoryStartingAddress": "0xA0Yc3cWIjcVA"
+            },
+            {
+                "processId": 279809,
+                "memory": "26918MB",
+                "family": "Zoolab",
+                "openFiles": "Mauris.ppt",
+                "memoryStartingAddress": "0xA0Pcie9POhZC"
+            },
+            {
+                "processId": 123952,
+                "memory": "7655MB",
+                "family": "Otcom",
+                "openFiles": "TurpisA.ppt",
+                "memoryStartingAddress": "0xA0OE7E1sCF8L"
+            },
+            {
+                "processId": 113385,
+                "memory": "28900MB",
+                "family": "Mat Lam Tam",
+                "openFiles": "ArcuAdipiscing.avi",
+                "memoryStartingAddress": "0xA0U1eXRBcS5J"
+            },
+            {
+                "processId": 3339,
+                "memory": "16849MB",
+                "family": "Pannier",
+                "openFiles": "OrciLuctus.ppt",
+                "memoryStartingAddress": "0xA0hnESHctPUj"
+            },
+            {
+                "processId": 87879,
+                "memory": "27861MB",
+                "family": "Overhold",
+                "openFiles": "UltriciesEu.txt",
+                "memoryStartingAddress": "0xA0cmm0IHcmhE"
+            },
+            {
+                "processId": 27895,
+                "memory": "8431MB",
+                "family": "Tempsoft",
+                "openFiles": "AtNibh.doc",
+                "memoryStartingAddress": "0xA0N3sXKhyqli"
+            },
+            {
+                "processId": 103991,
+                "memory": "17200MB",
+                "family": "Matsoft",
+                "openFiles": "NibhQuisque.xls",
+                "memoryStartingAddress": "0xA08nDhTHB5ZM"
+            },
+            {
+                "processId": 215126,
+                "memory": "19368MB",
+                "family": "Redhold",
+                "openFiles": "InPurus.avi",
+                "memoryStartingAddress": "0xA0uqLQlXkntO"
+            },
+            {
+                "processId": 29705,
+                "memory": "3518MB",
+                "family": "Bigtax",
+                "openFiles": "Ultricies.ppt",
+                "memoryStartingAddress": "0xA0yY2CIRV9BR"
+            },
+            {
+                "processId": 272389,
+                "memory": "20872MB",
+                "family": "Span",
+                "openFiles": "Elementum.mov",
+                "memoryStartingAddress": "0xA0rATGPd7FWp"
+            },
+            {
+                "processId": 34089,
+                "memory": "27863MB",
+                "family": "Konklab",
+                "openFiles": "IdConsequat.ppt",
+                "memoryStartingAddress": "0xA06xs1i40uxv"
+            },
+            {
+                "processId": 215894,
+                "memory": "2516MB",
+                "family": "Job",
+                "openFiles": "Quam.tiff",
+                "memoryStartingAddress": "0xA0VmIVw66RWi"
+            },
+            {
+                "processId": 247695,
+                "memory": "1900MB",
+                "family": "Kanlam",
+                "openFiles": "TemporTurpisNec.mp3",
+                "memoryStartingAddress": "0xA0ErB5d5NUzm"
+            },
+            {
+                "processId": 297443,
+                "memory": "8868MB",
+                "family": "Quo Lux",
+                "openFiles": "NisiVulputate.tiff",
+                "memoryStartingAddress": "0xA097Dgdxkfno"
+            },
+            {
+                "processId": 220250,
+                "memory": "3968MB",
+                "family": "Home Ing",
+                "openFiles": "CondimentumCurabiturIn.ppt",
+                "memoryStartingAddress": "0xA03L0hocxFpT"
+            },
+            {
+                "processId": 96312,
+                "memory": "25619MB",
+                "family": "Otcom",
+                "openFiles": "DapibusAugueVel.avi",
+                "memoryStartingAddress": "0xA0CYXK9B3HGg"
+            },
+            {
+                "processId": 293086,
+                "memory": "10MB",
+                "family": "Fintone",
+                "openFiles": "VelIpsumPraesent.mp3",
+                "memoryStartingAddress": "0xA0sAjZxqhmSS"
+            },
+            {
+                "processId": 132574,
+                "memory": "12147MB",
+                "family": "Redhold",
+                "openFiles": "EnimLoremIpsum.mp3",
+                "memoryStartingAddress": "0xA0mie5cA5ny9"
+            },
+            {
+                "processId": 38276,
+                "memory": "29750MB",
+                "family": "Fix San",
+                "openFiles": "CumSociisNatoque.avi",
+                "memoryStartingAddress": "0xA0kN75JIMSOG"
+            },
+            {
+                "processId": 220513,
+                "memory": "17872MB",
+                "family": "Bytecard",
+                "openFiles": "IaculisDiamErat.mp3",
+                "memoryStartingAddress": "0xA0kIfuUci9IA"
+            },
+            {
+                "processId": 128729,
+                "memory": "21740MB",
+                "family": "Treeflex",
+                "openFiles": "TinciduntEgetTempus.ppt",
+                "memoryStartingAddress": "0xA0TfSgrxyaxJ"
+            },
+            {
+                "processId": 18589,
+                "memory": "16503MB",
+                "family": "Y-Solowarm",
+                "openFiles": "FaucibusCursusUrna.txt",
+                "memoryStartingAddress": "0xA0M3fP8OeLDy"
+            },
+            {
+                "processId": 2622,
+                "memory": "18116MB",
+                "family": "Domainer",
+                "openFiles": "Consequat.pdf",
+                "memoryStartingAddress": "0xA0GOgtmWFj4n"
+            },
+            {
+                "processId": 184910,
+                "memory": "26914MB",
+                "family": "Bitwolf",
+                "openFiles": "InSagittis.mp3",
+                "memoryStartingAddress": "0xA0FJGvl7rRRW"
+            },
+            {
+                "processId": 36992,
+                "memory": "2109MB",
+                "family": "Latlux",
+                "openFiles": "FelisSedInterdum.avi",
+                "memoryStartingAddress": "0xA0NErej12YP7"
+            },
+            {
+                "processId": 57115,
+                "memory": "21388MB",
+                "family": "Pannier",
+                "openFiles": "Aliquet.ppt",
+                "memoryStartingAddress": "0xA0owSVjNsz2d"
+            },
+            {
+                "processId": 271707,
+                "memory": "16462MB",
+                "family": "Trippledex",
+                "openFiles": "NonMattis.tiff",
+                "memoryStartingAddress": "0xA0XhL8KPBKKl"
+            },
+            {
+                "processId": 118580,
+                "memory": "20638MB",
+                "family": "Andalax",
+                "openFiles": "PosuereCubiliaCurae.avi",
+                "memoryStartingAddress": "0xA0T3wtKcpFJ2"
+            },
+            {
+                "processId": 153966,
+                "memory": "12259MB",
+                "family": "Gembucket",
+                "openFiles": "VelSem.doc",
+                "memoryStartingAddress": "0xA0iA02YdOHlS"
+            },
+            {
+                "processId": 62630,
+                "memory": "26567MB",
+                "family": "Solarbreeze",
+                "openFiles": "SitAmetLobortis.avi",
+                "memoryStartingAddress": "0xA0QsB2n4k0ds"
+            },
+            {
+                "processId": 94590,
+                "memory": "1111MB",
+                "family": "Y-find",
+                "openFiles": "Sapien.mp3",
+                "memoryStartingAddress": "0xA0tZIlRkH9l2"
+            },
+            {
+                "processId": 189997,
+                "memory": "1482MB",
+                "family": "Ventosanzap",
+                "openFiles": "AtTurpisDonec.mp3",
+                "memoryStartingAddress": "0xA0Y011nivfoY"
+            },
+            {
+                "processId": 72101,
+                "memory": "5116MB",
+                "family": "Duobam",
+                "openFiles": "VivamusVel.xls",
+                "memoryStartingAddress": "0xA0ZGUs0HQD2z"
+            },
+            {
+                "processId": 100697,
+                "memory": "16889MB",
+                "family": "Lotlux",
+                "openFiles": "SedAnteVivamus.ppt",
+                "memoryStartingAddress": "0xA0jSp5kQiHjI"
+            },
+            {
+                "processId": 280112,
+                "memory": "9445MB",
+                "family": "Fintone",
+                "openFiles": "Nulla.xls",
+                "memoryStartingAddress": "0xA0lDOi36DakJ"
+            },
+            {
+                "processId": 231813,
+                "memory": "8048MB",
+                "family": "Zoolab",
+                "openFiles": "MorbiUtOdio.xls",
+                "memoryStartingAddress": "0xA0TxWLOI1Spd"
+            },
+            {
+                "processId": 23822,
+                "memory": "26299MB",
+                "family": "Span",
+                "openFiles": "LoremVitae.jpeg",
+                "memoryStartingAddress": "0xA0JN4x7a8UAI"
+            }
+        ]
+    }
+}

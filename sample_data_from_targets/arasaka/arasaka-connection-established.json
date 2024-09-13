@@ -1,0 +1,13 @@
+// curl -H "X-API-Key: ASK_FOR_THIS_IF_YOU_NEED_IT" https://my.api.mockaroo.com/arasaka/establish-connection > arasaka-connection-established.json
+{
+    "messageId": 1,
+    "arasakaServer": "us-west-2",
+    "netwatchMonitored": true,
+    "content": {
+        "accessKey": "baa55fcc3ce903a82e4db1d6738ba89695b50e75",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 78,
+        "message": "successful connection"
+    }
+}

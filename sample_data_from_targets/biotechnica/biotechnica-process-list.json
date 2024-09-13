@@ -1,0 +1,98 @@
+// curl -H "X-API-Key: ASK_FOR_THIS_IF_YOU_NEED_IT" https://my.api.mockaroo.com/biotechnica/process-list > biotechnica-process-list.json
+{
+    "messageId": 1421,
+    "biotechnicaServer": "west-aus",
+    "netwatchMonitored": true,
+    "system": {
+        "accessKey": "2207a5ee0087ee16ad2b5d7eb3b1c4031da3442e",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 17,
+        "processList": [
+            {
+                "processId": 54923,
+                "memory": "26419MB",
+                "family": "Vagram",
+                "openFiles": "ElementumInHac.mov",
+                "memoryStartingAddress": "0xB5H3DKgyqcab"
+            },
+            {
+                "processId": 178050,
+                "memory": "6711MB",
+                "family": "Mat Lam Tam",
+                "openFiles": "JustoEu.avi",
+                "memoryStartingAddress": "0xB5lXHPbOvetS"
+            },
+            {
+                "processId": 107440,
+                "memory": "22588MB",
+                "family": "Prodder",
+                "openFiles": "PhasellusSit.avi",
+                "memoryStartingAddress": "0xB5h981XlxdCi"
+            },
+            {
+                "processId": 163681,
+                "memory": "500MB",
+                "family": "Flexidy",
+                "openFiles": "VenenatisNonSodales.avi",
+                "memoryStartingAddress": "0xB5YVlhffOa6N"
+            },
+            {
+                "processId": 169001,
+                "memory": "13069MB",
+                "family": "Tin",
+                "openFiles": "CondimentumId.ppt",
+                "memoryStartingAddress": "0xB5piHK5kkMIj"
+            },
+            {
+                "processId": 293775,
+                "memory": "1853MB",
+                "family": "Vagram",
+                "openFiles": "Vivamus.jpeg",
+                "memoryStartingAddress": "0xB5JPuZm8bSno"
+            },
+            {
+                "processId": 206839,
+                "memory": "7529MB",
+                "family": "Viva",
+                "openFiles": "EuSapien.mpeg",
+                "memoryStartingAddress": "0xB5LftowdrhIj"
+            },
+            {
+                "processId": 244346,
+                "memory": "12602MB",
+                "family": "Zontrax",
+                "openFiles": "SitAmet.xls",
+                "memoryStartingAddress": "0xB5xOVh3NBwSB"
+            },
+            {
+                "processId": 88424,
+                "memory": "11399MB",
+                "family": "Fixflex",
+                "openFiles": "EtiamVel.xls",
+                "memoryStartingAddress": "0xB5U6alJ58Slf"
+            },
+            {
+                "processId": 149904,
+                "memory": "2275MB",
+                "family": "Tin",
+                "openFiles": "Aliquam.mp3",
+                "memoryStartingAddress": "0xB5jh2WqOjNiL"
+            },
+            {
+                "processId": 185886,
+                "memory": "15832MB",
+                "family": "Mat Lam Tam",
+                "openFiles": "AugueQuamSollicitudin.mp3",
+                "memoryStartingAddress": "0xB517GfBHUnkK"
+            },
+            {
+                "processId": 29219,
+                "memory": "25073MB",
+                "family": "Konklab",
+                "openFiles": "TristiqueFusce.xls",
+                "memoryStartingAddress": "0xB5HipSyaHkgJ"
+            }
+        ]
+    }
+}

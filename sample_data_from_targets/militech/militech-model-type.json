@@ -1,0 +1,13 @@
+// curl -H "X-API-Key: ASK_FOR_THIS_IF_YOU_NEED_IT" https://my.api.mockaroo.com/militech/model-type > militech-model-type.json
+{
+    "messageId": 1,
+    "localRegion": "east-us",
+    "netwatchMonitored": false,
+    "content": {
+        "accessKey": "384a0380bd4dfba34897d3411e401c1744b83a80",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 96,
+        "model": "0x98ad4321"
+    }
+}

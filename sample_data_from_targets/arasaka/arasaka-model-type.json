@@ -1,0 +1,13 @@
+// curl -H "X-API-Key: ASK_FOR_THIS_IF_YOU_NEED_IT" https://my.api.mockaroo.com/arasaka/model-type > arasaka-model-type.json
+{
+    "messageId": 1,
+    "arasakaServer": "us-east-2",
+    "netwatchMonitored": true,
+    "content": {
+        "accessKey": "b1f627465d882312028b79bc25f2a4613c6a5a3c",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 14,
+        "model": "0x98ad4321"
+    }
+}

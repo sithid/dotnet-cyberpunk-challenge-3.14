@@ -1,0 +1,13 @@
+// curl -H "X-API-Key: ASK_FOR_THIS_IF_YOU_NEED_IT" https://my.api.mockaroo.com/militech/establish-connection > militech-establish-connection.json
+{
+    "messageId": 1,
+    "localRegion": "northern-europe",
+    "netwatchMonitored": false,
+    "connection": {
+        "accessKey": "e617617718e1704b0d40a423c2f2906e5632d621",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 6
+    },
+    "message": "successful connection"
+}

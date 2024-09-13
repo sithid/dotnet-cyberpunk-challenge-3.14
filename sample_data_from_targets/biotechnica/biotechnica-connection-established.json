@@ -1,0 +1,13 @@
+// curl -H "X-API-Key: ASK_FOR_THIS_IF_YOU_NEED_IT" https://my.api.mockaroo.com/biotechnica/establish-connection > biotechnica-connection-established.json
+{
+    "messageId": 1,
+    "biotechnicaServer": "us-west-2",
+    "netwatchMonitored": true,
+    "system": {
+        "accessKey": "6f2aaae5f768050486edc5aec382e07be36c2824",
+        "isAuthenticated": "true",
+        "isEncrypted": "false",
+        "TTL": 64,
+        "message": "successful connection"
+    }
+}
